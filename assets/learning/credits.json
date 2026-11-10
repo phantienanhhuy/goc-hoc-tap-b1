@@ -1,0 +1,1314 @@
+[
+  {
+    "lessonId": "math-01",
+    "id": "math-01-extrema",
+    "src": "./assets/learning/science/extrema.webp",
+    "sourceTitle": "Wikimedia Commons · Extrempunkte demonstrationsgraph.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Extrempunkte_demonstrationsgraph.svg",
+    "author": "Johannes Schneider",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 459,
+    "title": "Đồ thị và cực trị",
+    "alt": "Đường cong với một cực đại và một cực tiểu.",
+    "caption": "Một đồ thị minh họa sự thay đổi chiều biến thiên.",
+    "explanation": [
+      "Theo dõi đồ thị từ trái sang phải để tìm đoạn tăng và đoạn giảm.",
+      "Tại hai điểm đổi chiều, tiếp tuyến nằm ngang; đọc giá trị trên trục tung."
+    ]
+  },
+  {
+    "lessonId": "math-02",
+    "id": "math-02-extrema",
+    "src": "./assets/learning/science/extrema.webp",
+    "sourceTitle": "Wikimedia Commons · Extrempunkte demonstrationsgraph.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Extrempunkte_demonstrationsgraph.svg",
+    "author": "Johannes Schneider",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 459,
+    "title": "Đồ thị và cực trị",
+    "alt": "Đường cong với một cực đại và một cực tiểu.",
+    "caption": "Một đồ thị minh họa sự thay đổi chiều biến thiên.",
+    "explanation": [
+      "Theo dõi đồ thị từ trái sang phải để tìm đoạn tăng và đoạn giảm.",
+      "Tại hai điểm đổi chiều, tiếp tuyến nằm ngang; đọc giá trị trên trục tung."
+    ]
+  },
+  {
+    "lessonId": "math-04",
+    "id": "math-04-extrema",
+    "src": "./assets/learning/science/extrema.webp",
+    "sourceTitle": "Wikimedia Commons · Extrempunkte demonstrationsgraph.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Extrempunkte_demonstrationsgraph.svg",
+    "author": "Johannes Schneider",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 459,
+    "title": "Đồ thị và cực trị",
+    "alt": "Đường cong với một cực đại và một cực tiểu.",
+    "caption": "Một đồ thị minh họa sự thay đổi chiều biến thiên.",
+    "explanation": [
+      "Theo dõi đồ thị từ trái sang phải để tìm đoạn tăng và đoạn giảm.",
+      "Tại hai điểm đổi chiều, tiếp tuyến nằm ngang; đọc giá trị trên trục tung."
+    ]
+  },
+  {
+    "lessonId": "math-05",
+    "id": "math-05-extrema",
+    "src": "./assets/learning/science/extrema.webp",
+    "sourceTitle": "Wikimedia Commons · Extrempunkte demonstrationsgraph.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Extrempunkte_demonstrationsgraph.svg",
+    "author": "Johannes Schneider",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 459,
+    "title": "Đồ thị và cực trị",
+    "alt": "Đường cong với một cực đại và một cực tiểu.",
+    "caption": "Một đồ thị minh họa sự thay đổi chiều biến thiên.",
+    "explanation": [
+      "Theo dõi đồ thị từ trái sang phải để tìm đoạn tăng và đoạn giảm.",
+      "Tại hai điểm đổi chiều, tiếp tuyến nằm ngang; đọc giá trị trên trục tung."
+    ]
+  },
+  {
+    "lessonId": "math-06",
+    "id": "math-06-xyz",
+    "src": "./assets/learning/science/xyz.webp",
+    "sourceTitle": "Wikimedia Commons · 3D vector component.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:3D_vector_component.png",
+    "author": "Aboalbiss",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 945,
+    "height": 796,
+    "title": "Vectơ trong hệ trục Oxyz",
+    "alt": "Vectơ được phân tích thành ba thành phần theo các trục x, y, z.",
+    "caption": "Các thành phần vectơ theo ba trục vuông góc.",
+    "explanation": [
+      "Xác định gốc và chiều dương của ba trục.",
+      "Quan sát vectơ tổng và các thành phần tương ứng với từng trục."
+    ]
+  },
+  {
+    "lessonId": "math-07",
+    "id": "math-07-xyz",
+    "src": "./assets/learning/science/xyz.webp",
+    "sourceTitle": "Wikimedia Commons · 3D vector component.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:3D_vector_component.png",
+    "author": "Aboalbiss",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 945,
+    "height": 796,
+    "title": "Vectơ trong hệ trục Oxyz",
+    "alt": "Vectơ được phân tích thành ba thành phần theo các trục x, y, z.",
+    "caption": "Các thành phần vectơ theo ba trục vuông góc.",
+    "explanation": [
+      "Xác định gốc và chiều dương của ba trục.",
+      "Quan sát vectơ tổng và các thành phần tương ứng với từng trục."
+    ]
+  },
+  {
+    "lessonId": "math-08",
+    "id": "math-08-xyz",
+    "src": "./assets/learning/science/xyz.webp",
+    "sourceTitle": "Wikimedia Commons · 3D vector component.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:3D_vector_component.png",
+    "author": "Aboalbiss",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 945,
+    "height": 796,
+    "title": "Vectơ trong hệ trục Oxyz",
+    "alt": "Vectơ được phân tích thành ba thành phần theo các trục x, y, z.",
+    "caption": "Các thành phần vectơ theo ba trục vuông góc.",
+    "explanation": [
+      "Xác định gốc và chiều dương của ba trục.",
+      "Quan sát vectơ tổng và các thành phần tương ứng với từng trục."
+    ]
+  },
+  {
+    "lessonId": "math-09",
+    "id": "math-09-boxplot",
+    "src": "./assets/learning/science/boxplot.webp",
+    "sourceTitle": "Wikimedia Commons · Box plot description.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Box_plot_description.jpg",
+    "author": "Dcbmariano",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 437,
+    "height": 457,
+    "title": "Sơ đồ hộp và tứ phân vị",
+    "alt": "Hình hộp thể hiện trung vị, các tứ phân vị và điểm ngoại lệ.",
+    "caption": "Sơ đồ hộp biểu diễn vị trí tứ phân vị.",
+    "explanation": [
+      "Đọc first quartile là Q₁, median là Q₂ và third quartile là Q₃; chiều cao hộp biểu diễn IQR = Q₃ − Q₁.",
+      "Trong hình, điểm rời phía trên là ngoại lệ; đầu râu ghi maximum là giá trị lớn nhất không tính điểm ngoại lệ, không phải lớn nhất toàn bộ dữ liệu. Quy ước râu có thể khác giữa các tài liệu."
+    ]
+  },
+  {
+    "lessonId": "math-10",
+    "id": "math-10-spread",
+    "src": "./assets/learning/science/spread.webp",
+    "sourceTitle": "Wikimedia Commons · Standard deviation graph.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Standard_deviation_graph.jpg",
+    "author": "Rohanukhade",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 960,
+    "height": 615,
+    "title": "Độ lệch chuẩn trên đường cong chuẩn",
+    "alt": "Hình chuông phân bố chuẩn với các khoảng tính theo độ lệch chuẩn.",
+    "caption": "Ví dụ trực quan về độ lệch chuẩn trong phân bố chuẩn.",
+    "explanation": [
+      "Tâm đường cong là giá trị trung bình; các vạch cách tâm một hoặc hai độ lệch chuẩn.",
+      "Các phần trăm trong hình chỉ áp dụng cho phân bố chuẩn, không phải mọi tập số liệu."
+    ]
+  },
+  {
+    "lessonId": "math-11",
+    "id": "math-11-integral",
+    "src": "./assets/learning/science/integral.webp",
+    "sourceTitle": "Wikimedia Commons · Integral-area-under-curve.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Integral-area-under-curve.svg",
+    "author": "helix84",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 960,
+    "height": 594,
+    "title": "Diện tích dưới đường cong",
+    "alt": "Miền tô màu nằm giữa đồ thị dương và trục hoành từ a đến b.",
+    "caption": "Diện tích và tích phân khi hàm không âm.",
+    "explanation": [
+      "Xác định hai cận a, b và miền tô màu dưới đồ thị f.",
+      "Trong hình f không âm nên diện tích bằng tích phân từ a đến b; nếu đổi dấu phải chia miền hoặc dùng trị tuyệt đối."
+    ]
+  },
+  {
+    "lessonId": "math-12",
+    "id": "math-12-integral",
+    "src": "./assets/learning/science/integral.webp",
+    "sourceTitle": "Wikimedia Commons · Integral-area-under-curve.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Integral-area-under-curve.svg",
+    "author": "helix84",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 960,
+    "height": 594,
+    "title": "Diện tích dưới đường cong",
+    "alt": "Miền tô màu nằm giữa đồ thị dương và trục hoành từ a đến b.",
+    "caption": "Diện tích và tích phân khi hàm không âm.",
+    "explanation": [
+      "Xác định hai cận a, b và miền tô màu dưới đồ thị f.",
+      "Trong hình f không âm nên diện tích bằng tích phân từ a đến b; nếu đổi dấu phải chia miền hoặc dùng trị tuyệt đối."
+    ]
+  },
+  {
+    "lessonId": "math-13",
+    "id": "math-13-integral",
+    "src": "./assets/learning/science/integral.webp",
+    "sourceTitle": "Wikimedia Commons · Integral-area-under-curve.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Integral-area-under-curve.svg",
+    "author": "helix84",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 960,
+    "height": 594,
+    "title": "Diện tích dưới đường cong",
+    "alt": "Miền tô màu nằm giữa đồ thị dương và trục hoành từ a đến b.",
+    "caption": "Diện tích và tích phân khi hàm không âm.",
+    "explanation": [
+      "Xác định hai cận a, b và miền tô màu dưới đồ thị f.",
+      "Trong hình f không âm nên diện tích bằng tích phân từ a đến b; nếu đổi dấu phải chia miền hoặc dùng trị tuyệt đối."
+    ]
+  },
+  {
+    "lessonId": "math-14",
+    "id": "math-14-normal",
+    "src": "./assets/learning/science/normal.webp",
+    "sourceTitle": "Wikimedia Commons · Normal vectors.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Normal_vectors.svg",
+    "author": "Elembis",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 783,
+    "height": 1000,
+    "title": "Pháp tuyến của mặt phẳng",
+    "alt": "Hai vectơ pháp tuyến ngược chiều cùng vuông góc mặt phẳng.",
+    "caption": "Hai hướng pháp tuyến của cùng một mặt phẳng.",
+    "explanation": [
+      "Nhìn kí hiệu góc vuông giữa pháp tuyến và mặt phẳng.",
+      "Hai vectơ ngược hướng vẫn có thể là pháp tuyến của cùng mặt phẳng."
+    ]
+  },
+  {
+    "lessonId": "math-16",
+    "id": "math-16-normal",
+    "src": "./assets/learning/science/normal.webp",
+    "sourceTitle": "Wikimedia Commons · Normal vectors.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Normal_vectors.svg",
+    "author": "Elembis",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 783,
+    "height": 1000,
+    "title": "Pháp tuyến của mặt phẳng",
+    "alt": "Hai vectơ pháp tuyến ngược chiều cùng vuông góc mặt phẳng.",
+    "caption": "Hai hướng pháp tuyến của cùng một mặt phẳng.",
+    "explanation": [
+      "Nhìn kí hiệu góc vuông giữa pháp tuyến và mặt phẳng.",
+      "Hai vectơ ngược hướng vẫn có thể là pháp tuyến của cùng mặt phẳng."
+    ]
+  },
+  {
+    "lessonId": "math-17",
+    "id": "math-17-sphere",
+    "src": "./assets/learning/science/sphere.webp",
+    "sourceTitle": "Wikimedia Commons · Plane-Sphere Intersection.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plane-Sphere_Intersection.svg",
+    "author": "Zephyris; redraw by Pbroks13",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 960,
+    "height": 443,
+    "title": "Mặt cầu và mặt phẳng",
+    "alt": "Ba hình lần lượt không giao, tiếp xúc và cắt theo đường tròn.",
+    "caption": "Các vị trí tương đối của mặt phẳng và mặt cầu.",
+    "explanation": [
+      "So sánh khoảng cách từ tâm cầu đến mặt phẳng với bán kính.",
+      "Từ trái sang phải: không giao, tiếp xúc tại một điểm, giao theo đường tròn."
+    ]
+  },
+  {
+    "lessonId": "math-18",
+    "id": "math-18-probability",
+    "src": "./assets/learning/science/probability.webp",
+    "sourceTitle": "Wikimedia Commons · Probability tree diagram.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Probability_tree_diagram.svg",
+    "author": "Gnathan87",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 960,
+    "height": 660,
+    "title": "Cây xác suất hai bước",
+    "alt": "Cây gồm nhánh A, A bổ sung và các nhánh có điều kiện B.",
+    "caption": "Sơ đồ cây diễn tả xác suất có điều kiện.",
+    "explanation": [
+      "Nhánh đầu là A hoặc biến cố đối; nhánh sau ghi xác suất B theo điều kiện ở nhánh đầu.",
+      "Nhân xác suất dọc một nhánh để được xác suất giao; cộng các nhánh thích hợp để tìm xác suất toàn phần."
+    ]
+  },
+  {
+    "lessonId": "math-19",
+    "id": "math-19-probability",
+    "src": "./assets/learning/science/probability.webp",
+    "sourceTitle": "Wikimedia Commons · Probability tree diagram.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Probability_tree_diagram.svg",
+    "author": "Gnathan87",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 960,
+    "height": 660,
+    "title": "Cây xác suất hai bước",
+    "alt": "Cây gồm nhánh A, A bổ sung và các nhánh có điều kiện B.",
+    "caption": "Sơ đồ cây diễn tả xác suất có điều kiện.",
+    "explanation": [
+      "Nhánh đầu là A hoặc biến cố đối; nhánh sau ghi xác suất B theo điều kiện ở nhánh đầu.",
+      "Nhân xác suất dọc một nhánh để được xác suất giao; cộng các nhánh thích hợp để tìm xác suất toàn phần."
+    ]
+  },
+  {
+    "lessonId": "physics-01",
+    "id": "physics-01-states",
+    "src": "./assets/learning/science/states.webp",
+    "sourceTitle": "Wikimedia Commons · Phase change - en.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phase_change_-_en.svg",
+    "author": "Flanker and penubag",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 940,
+    "height": 1000,
+    "title": "Các thể và chuyển thể",
+    "alt": "Sơ đồ các thể rắn, lỏng, khí, plasma và các mũi tên chuyển thể.",
+    "caption": "Tập trung ba thể rắn–lỏng–khí; plasma là phần mở rộng.",
+    "explanation": [
+      "Solid là rắn, liquid là lỏng, gas là khí; melting là nóng chảy, freezing là đông đặc.",
+      "Vaporization là hóa hơi, condensation là ngưng tụ; sublimation là thăng hoa, deposition là ngưng kết.",
+      "Mũi tên bên phải biểu diễn enthalpy, một đại lượng năng lượng, không phải nhiệt độ. Sơ đồ không theo tỉ lệ."
+    ]
+  },
+  {
+    "lessonId": "physics-03",
+    "id": "physics-03-heating",
+    "src": "./assets/learning/science/heating.webp",
+    "sourceTitle": "Wikimedia Commons · Heating curve blank labelled exam.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heating_curve_blank_labelled_exam.svg",
+    "author": "Bohrium2b",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 546,
+    "title": "Đường đun nóng qua các giai đoạn",
+    "alt": "Đường nhiệt độ theo thời gian gồm các đoạn nghiêng và hai đoạn nằm ngang.",
+    "caption": "Đường đun nóng lí tưởng khi chuyển thể.",
+    "explanation": [
+      "Trục đứng là nhiệt độ, trục ngang là thời gian; đoạn nghiêng biểu thị nhiệt độ thay đổi.",
+      "Đoạn B–C và D–E nằm ngang biểu thị chuyển thể ở nhiệt độ không đổi trong mô hình này."
+    ]
+  },
+  {
+    "lessonId": "physics-04",
+    "id": "physics-04-heating",
+    "src": "./assets/learning/science/heating.webp",
+    "sourceTitle": "Wikimedia Commons · Heating curve blank labelled exam.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heating_curve_blank_labelled_exam.svg",
+    "author": "Bohrium2b",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 546,
+    "title": "Đường đun nóng qua các giai đoạn",
+    "alt": "Đường nhiệt độ theo thời gian gồm các đoạn nghiêng và hai đoạn nằm ngang.",
+    "caption": "Đường đun nóng lí tưởng khi chuyển thể.",
+    "explanation": [
+      "Trục đứng là nhiệt độ, trục ngang là thời gian; đoạn nghiêng biểu thị nhiệt độ thay đổi.",
+      "Đoạn B–C và D–E nằm ngang biểu thị chuyển thể ở nhiệt độ không đổi trong mô hình này."
+    ]
+  },
+  {
+    "lessonId": "physics-05",
+    "id": "physics-05-heating",
+    "src": "./assets/learning/science/heating.webp",
+    "sourceTitle": "Wikimedia Commons · Heating curve blank labelled exam.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heating_curve_blank_labelled_exam.svg",
+    "author": "Bohrium2b",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 546,
+    "title": "Đường đun nóng qua các giai đoạn",
+    "alt": "Đường nhiệt độ theo thời gian gồm các đoạn nghiêng và hai đoạn nằm ngang.",
+    "caption": "Đường đun nóng lí tưởng khi chuyển thể.",
+    "explanation": [
+      "Trục đứng là nhiệt độ, trục ngang là thời gian; đoạn nghiêng biểu thị nhiệt độ thay đổi.",
+      "Đoạn B–C và D–E nằm ngang biểu thị chuyển thể ở nhiệt độ không đổi trong mô hình này."
+    ]
+  },
+  {
+    "lessonId": "physics-06",
+    "id": "physics-06-heating",
+    "src": "./assets/learning/science/heating.webp",
+    "sourceTitle": "Wikimedia Commons · Heating curve blank labelled exam.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heating_curve_blank_labelled_exam.svg",
+    "author": "Bohrium2b",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 546,
+    "title": "Đường đun nóng qua các giai đoạn",
+    "alt": "Đường nhiệt độ theo thời gian gồm các đoạn nghiêng và hai đoạn nằm ngang.",
+    "caption": "Đường đun nóng lí tưởng khi chuyển thể.",
+    "explanation": [
+      "Trục đứng là nhiệt độ, trục ngang là thời gian; đoạn nghiêng biểu thị nhiệt độ thay đổi.",
+      "Đoạn B–C và D–E nằm ngang biểu thị chuyển thể ở nhiệt độ không đổi trong mô hình này."
+    ]
+  },
+  {
+    "lessonId": "physics-07",
+    "id": "physics-07-heating",
+    "src": "./assets/learning/science/heating.webp",
+    "sourceTitle": "Wikimedia Commons · Heating curve blank labelled exam.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heating_curve_blank_labelled_exam.svg",
+    "author": "Bohrium2b",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 546,
+    "title": "Đường đun nóng qua các giai đoạn",
+    "alt": "Đường nhiệt độ theo thời gian gồm các đoạn nghiêng và hai đoạn nằm ngang.",
+    "caption": "Đường đun nóng lí tưởng khi chuyển thể.",
+    "explanation": [
+      "Trục đứng là nhiệt độ, trục ngang là thời gian; đoạn nghiêng biểu thị nhiệt độ thay đổi.",
+      "Đoạn B–C và D–E nằm ngang biểu thị chuyển thể ở nhiệt độ không đổi trong mô hình này."
+    ]
+  },
+  {
+    "lessonId": "physics-09",
+    "id": "physics-09-boyle",
+    "src": "./assets/learning/science/boyle.webp",
+    "sourceTitle": "Wikimedia Commons · Boyles Law.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boyles_Law.svg",
+    "author": "Krishnavedala",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 937,
+    "title": "Đồ thị đẳng nhiệt",
+    "alt": "Đồ thị áp suất giảm theo thể tích dạng hypebol.",
+    "caption": "Quan hệ áp suất–thể tích của lượng khí ở nhiệt độ không đổi.",
+    "explanation": [
+      "Trục ngang là thể tích, trục đứng là áp suất; khi V tăng thì p giảm.",
+      "Với cùng lượng khí lí tưởng đẳng nhiệt, tích pV không đổi; hai trạng thái trên cùng đường thỏa p₁V₁ = p₂V₂."
+    ]
+  },
+  {
+    "lessonId": "physics-10",
+    "id": "physics-10-charles",
+    "src": "./assets/learning/science/charles.webp",
+    "sourceTitle": "Wikimedia Commons · Charles's law graph.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles%27s_law_graph.png",
+    "author": "Physchim62",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 590,
+    "title": "Thể tích theo nhiệt độ Celsius",
+    "alt": "Hai đường thẳng V theo nhiệt độ Celsius được kéo dài tới gần âm 273 độ C.",
+    "caption": "Ngoại suy quan hệ đẳng áp theo nhiệt độ.",
+    "explanation": [
+      "Trục ngang dùng nhiệt độ Celsius; đường chấm là phần ngoại suy của mô hình.",
+      "Khi tính tỉ số V/T phải đổi sang Kelvin; khí thực có thể hóa lỏng trước khi tới 0 K."
+    ]
+  },
+  {
+    "lessonId": "physics-11",
+    "id": "physics-11-boyle",
+    "src": "./assets/learning/science/boyle.webp",
+    "sourceTitle": "Wikimedia Commons · Boyles Law.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boyles_Law.svg",
+    "author": "Krishnavedala",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 937,
+    "title": "Đồ thị đẳng nhiệt",
+    "alt": "Đồ thị áp suất giảm theo thể tích dạng hypebol.",
+    "caption": "Quan hệ áp suất–thể tích của lượng khí ở nhiệt độ không đổi.",
+    "explanation": [
+      "Trục ngang là thể tích, trục đứng là áp suất; khi V tăng thì p giảm.",
+      "Với cùng lượng khí lí tưởng đẳng nhiệt, tích pV không đổi; hai trạng thái trên cùng đường thỏa p₁V₁ = p₂V₂."
+    ]
+  },
+  {
+    "lessonId": "physics-11",
+    "id": "physics-11-charles",
+    "src": "./assets/learning/science/charles.webp",
+    "sourceTitle": "Wikimedia Commons · Charles's law graph.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles%27s_law_graph.png",
+    "author": "Physchim62",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 590,
+    "title": "Thể tích theo nhiệt độ Celsius",
+    "alt": "Hai đường thẳng V theo nhiệt độ Celsius được kéo dài tới gần âm 273 độ C.",
+    "caption": "Ngoại suy quan hệ đẳng áp theo nhiệt độ.",
+    "explanation": [
+      "Trục ngang dùng nhiệt độ Celsius; đường chấm là phần ngoại suy của mô hình.",
+      "Khi tính tỉ số V/T phải đổi sang Kelvin; khí thực có thể hóa lỏng trước khi tới 0 K."
+    ]
+  },
+  {
+    "lessonId": "physics-13",
+    "id": "physics-13-boyle",
+    "src": "./assets/learning/science/boyle.webp",
+    "sourceTitle": "Wikimedia Commons · Boyles Law.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boyles_Law.svg",
+    "author": "Krishnavedala",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 937,
+    "title": "Đồ thị đẳng nhiệt",
+    "alt": "Đồ thị áp suất giảm theo thể tích dạng hypebol.",
+    "caption": "Quan hệ áp suất–thể tích của lượng khí ở nhiệt độ không đổi.",
+    "explanation": [
+      "Trục ngang là thể tích, trục đứng là áp suất; khi V tăng thì p giảm.",
+      "Với cùng lượng khí lí tưởng đẳng nhiệt, tích pV không đổi; hai trạng thái trên cùng đường thỏa p₁V₁ = p₂V₂."
+    ]
+  },
+  {
+    "lessonId": "physics-13",
+    "id": "physics-13-charles",
+    "src": "./assets/learning/science/charles.webp",
+    "sourceTitle": "Wikimedia Commons · Charles's law graph.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles%27s_law_graph.png",
+    "author": "Physchim62",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 590,
+    "title": "Thể tích theo nhiệt độ Celsius",
+    "alt": "Hai đường thẳng V theo nhiệt độ Celsius được kéo dài tới gần âm 273 độ C.",
+    "caption": "Ngoại suy quan hệ đẳng áp theo nhiệt độ.",
+    "explanation": [
+      "Trục ngang dùng nhiệt độ Celsius; đường chấm là phần ngoại suy của mô hình.",
+      "Khi tính tỉ số V/T phải đổi sang Kelvin; khí thực có thể hóa lỏng trước khi tới 0 K."
+    ]
+  },
+  {
+    "lessonId": "physics-14",
+    "id": "physics-14-magnet",
+    "src": "./assets/learning/science/magnet.webp",
+    "sourceTitle": "Wikimedia Commons · Bar-magnet-iron-filings max.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bar-magnet-iron-filings_max.jpg",
+    "author": "MikeRun , Vera Wurmsdobler",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 528,
+    "title": "Mạt sắt quanh nam châm",
+    "alt": "Mạt sắt xếp thành các dải cong quanh nam châm thanh.",
+    "caption": "Mạt sắt giúp quan sát hình dạng từ trường.",
+    "explanation": [
+      "Quan sát các dải mạt sắt quanh hai cực N và S.",
+      "Mạt sắt cho biết hình dạng tương đối của từ trường nhưng hình không tự chỉ chiều đường sức."
+    ]
+  },
+  {
+    "lessonId": "physics-14",
+    "id": "physics-14-solenoid",
+    "src": "./assets/learning/science/solenoid.webp",
+    "sourceTitle": "Wikimedia Commons · Picture of solenoid.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Picture_of_solenoid.png",
+    "author": "P.wormer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 800,
+    "height": 435,
+    "title": "Từ trường của ống dây",
+    "alt": "Dòng điện trong ống dây và đường sức từ quanh ống.",
+    "caption": "Chiều từ trường được minh họa quanh ống dây có dòng điện.",
+    "explanation": [
+      "Theo các mũi tên dòng điện chạy quanh vòng dây; đường xanh cho hướng từ trường trong và ngoài ống.",
+      "Dùng quy tắc nắm tay phải: các ngón theo chiều dòng, ngón cái chỉ chiều từ trường bên trong ống dây."
+    ]
+  },
+  {
+    "lessonId": "physics-16",
+    "id": "physics-16-faraday",
+    "src": "./assets/learning/science/faraday.webp",
+    "sourceTitle": "Wikimedia Commons · Faraday's law of induction.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faraday%27s_law_of_induction.svg",
+    "author": "Jähmefyysikko",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 634,
+    "height": 1000,
+    "title": "Cảm ứng do từ thông biến thiên",
+    "alt": "Ba khung minh họa chuyển động tương đối và từ trường biến thiên qua mạch.",
+    "caption": "Các cách làm thay đổi từ thông qua mạch kín.",
+    "explanation": [
+      "Dấu nhân biểu diễn từ trường hướng vào trang; quan sát vùng từ trường đi qua khung.",
+      "Mạch chuyển động, vùng từ trường chuyển động hoặc độ lớn B thay đổi đều có thể làm từ thông biến thiên."
+    ]
+  },
+  {
+    "lessonId": "physics-17",
+    "id": "physics-17-generator",
+    "src": "./assets/learning/science/generator.webp",
+    "sourceTitle": "Wikimedia Commons · Electric-generator-3D-with-voltmeter.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric-generator-3D-with-voltmeter.svg",
+    "author": "MikeRun",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 780,
+    "title": "Máy phát điện xoay chiều",
+    "alt": "Khung dây quay giữa hai cực nam châm nối với vôn kế.",
+    "caption": "Mô hình khung dây quay trong từ trường.",
+    "explanation": [
+      "Xác định khung dây, hai cực nam châm và bộ phận nối với vôn kế.",
+      "Khung quay làm góc và từ thông biến thiên tuần hoàn, gây suất điện động cảm ứng."
+    ]
+  },
+  {
+    "lessonId": "physics-18",
+    "id": "physics-18-transformer",
+    "src": "./assets/learning/science/transformer.webp",
+    "sourceTitle": "Wikimedia Commons · Transformer under load (alternative version).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Transformer_under_load_(alternative_version).svg",
+    "author": "Gutten på Hemsen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 768,
+    "title": "Máy biến áp có tải",
+    "alt": "Cuộn sơ cấp và thứ cấp cùng lõi, phía thứ cấp nối tải.",
+    "caption": "Sơ đồ máy biến áp lí tưởng.",
+    "explanation": [
+      "Nhận biết nguồn xoay chiều, cuộn sơ cấp Np, thứ cấp Ns và tải ZL.",
+      "Trong mô hình lí tưởng, tỉ số điện áp bằng tỉ số số vòng; hình dùng quy ước dấu dòng riêng."
+    ]
+  },
+  {
+    "lessonId": "physics-19",
+    "id": "physics-19-spectrum",
+    "src": "./assets/learning/science/spectrum.webp",
+    "sourceTitle": "Wikimedia Commons · Electromagnetic radiation spectrum - en.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electromagnetic_radiation_spectrum_-_en.svg",
+    "author": "Philip Ronan",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 960,
+    "height": 457,
+    "title": "Phổ sóng điện từ",
+    "alt": "Thang tần số và bước sóng từ sóng vô tuyến tới tia gamma.",
+    "caption": "Phổ điện từ theo tần số và bước sóng.",
+    "explanation": [
+      "Quan sát thứ tự vô tuyến, vi ba, hồng ngoại, ánh sáng thấy được, tử ngoại, tia X và gamma.",
+      "Trong chân không, tần số tăng thì bước sóng giảm theo c = λf; dải màu là phần nhìn thấy."
+    ]
+  },
+  {
+    "lessonId": "physics-20",
+    "id": "physics-20-faraday",
+    "src": "./assets/learning/science/faraday.webp",
+    "sourceTitle": "Wikimedia Commons · Faraday's law of induction.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faraday%27s_law_of_induction.svg",
+    "author": "Jähmefyysikko",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 634,
+    "height": 1000,
+    "title": "Cảm ứng do từ thông biến thiên",
+    "alt": "Ba khung minh họa chuyển động tương đối và từ trường biến thiên qua mạch.",
+    "caption": "Các cách làm thay đổi từ thông qua mạch kín.",
+    "explanation": [
+      "Dấu nhân biểu diễn từ trường hướng vào trang; quan sát vùng từ trường đi qua khung.",
+      "Mạch chuyển động, vùng từ trường chuyển động hoặc độ lớn B thay đổi đều có thể làm từ thông biến thiên."
+    ]
+  },
+  {
+    "lessonId": "physics-21",
+    "id": "physics-21-nucleus",
+    "src": "./assets/learning/science/nucleus.webp",
+    "sourceTitle": "Wikimedia Commons · Helium atom QM.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helium_atom_QM.svg",
+    "author": "User:Yzmo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 960,
+    "height": 964,
+    "title": "Hạt nhân trong nguyên tử heli",
+    "alt": "Minh họa đám mây electron và hình phóng to hạt nhân heli.",
+    "caption": "Hình khái niệm về nguyên tử heli và hạt nhân.",
+    "explanation": [
+      "Vùng mờ biểu diễn phân bố electron; ô phóng to minh họa các nucleon trong hạt nhân.",
+      "So sánh các thước tỉ lệ trong hình: kích thước hạt nhân rất nhỏ so với nguyên tử."
+    ]
+  },
+  {
+    "lessonId": "physics-22",
+    "id": "physics-22-fission",
+    "src": "./assets/learning/science/fission.webp",
+    "sourceTitle": "Wikimedia Commons · Nuclear fission.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg",
+    "author": "Fastfission",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 640,
+    "height": 1000,
+    "title": "Phân hạch uranium",
+    "alt": "Neutron đi vào uranium-235 tạo hạt nhân kích thích và các mảnh phân hạch.",
+    "caption": "Một ví dụ phản ứng phân hạch do neutron.",
+    "explanation": [
+      "Theo thứ tự từ trên xuống: neutron tới, hạt nhân uranium rồi các mảnh và neutron phát ra.",
+      "Kiểm tra tổng số khối và điện tích khi viết phương trình; các sản phẩm trong hình chỉ là một kênh phản ứng."
+    ]
+  },
+  {
+    "lessonId": "physics-23",
+    "id": "physics-23-decay",
+    "src": "./assets/learning/science/decay.webp",
+    "sourceTitle": "Wikimedia Commons · Radioactive decay of Carbon-14 SVG.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Radioactive_decay_of_Carbon-14_SVG.svg",
+    "author": "ExeterPaul",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1000,
+    "height": 750,
+    "title": "Đồ thị phân rã carbon-14",
+    "alt": "Đường cong phần trăm carbon-14 còn lại theo thời gian tính bằng năm.",
+    "caption": "Minh họa quy luật bán rã của carbon-14.",
+    "explanation": [
+      "Trục ngang là thời gian theo năm; trục đứng là phần trăm số hạt carbon-14 ban đầu còn lại.",
+      "Từ đồ thị, phần còn lại giảm xấp xỉ một nửa sau 5.730 năm; với mẫu nhỏ số thực tế có dao động ngẫu nhiên."
+    ]
+  },
+  {
+    "lessonId": "physics-24",
+    "id": "physics-24-chain",
+    "src": "./assets/learning/science/chain.webp",
+    "sourceTitle": "Wikimedia Commons · Fission chain reaction.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fission_chain_reaction.svg",
+    "author": "User:Fastfission",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "width": 649,
+    "height": 1000,
+    "title": "Phản ứng phân hạch dây chuyền",
+    "alt": "Các neutron từ một phân hạch gây thêm những phân hạch tiếp theo.",
+    "caption": "Sơ đồ phát triển phản ứng phân hạch dây chuyền.",
+    "explanation": [
+      "Theo các neutron tỏa ra từ mỗi sự kiện phân hạch.",
+      "Chỉ một số neutron tiếp tục gây phân hạch; trong lò phản ứng số neutron hữu hiệu được điều khiển."
+    ]
+  },
+  {
+    "lessonId": "physics-25",
+    "id": "physics-25-decay",
+    "src": "./assets/learning/science/decay.webp",
+    "sourceTitle": "Wikimedia Commons · Radioactive decay of Carbon-14 SVG.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Radioactive_decay_of_Carbon-14_SVG.svg",
+    "author": "ExeterPaul",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1000,
+    "height": 750,
+    "title": "Đồ thị phân rã carbon-14",
+    "alt": "Đường cong phần trăm carbon-14 còn lại theo thời gian tính bằng năm.",
+    "caption": "Minh họa quy luật bán rã của carbon-14.",
+    "explanation": [
+      "Trục ngang là thời gian theo năm; trục đứng là phần trăm số hạt carbon-14 ban đầu còn lại.",
+      "Từ đồ thị, phần còn lại giảm xấp xỉ một nửa sau 5.730 năm; với mẫu nhỏ số thực tế có dao động ngẫu nhiên."
+    ]
+  },
+  {
+    "lessonId": "it-03",
+    "id": "it-03-image-05",
+    "src": "./assets/learning/it/image-05.webp",
+    "title": "Nhận diện switch",
+    "alt": "Hai switch mạng với nhiều dây cáp",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Quan sát dãy cổng Ethernet và cáp được cắm vào hai switch.",
+      "Các cổng nối thiết bị trong LAN; chỉ từ ảnh không xác định được địa chỉ MAC."
+    ],
+    "sourceTitle": "Network switches.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Network_switches.jpg",
+    "author": "ShakataGaNai",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1000,
+    "height": 665
+  },
+  {
+    "lessonId": "it-03",
+    "id": "it-03-image-11",
+    "src": "./assets/learning/it/image-11.webp",
+    "title": "Sơ đồ mạng gia đình",
+    "alt": "Sơ đồ máy tính và máy in kết nối router, modem và Internet",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Theo đường liền và đường nét đứt để phân biệt Ethernet và Wi-Fi.",
+      "Router trong hình cũng đảm nhận chức năng điểm truy cập không dây."
+    ],
+    "sourceTitle": "Home LAN local area network example diagram.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Home_LAN_local_area_network_example_diagram.png",
+    "author": "Sceeegt (người tải lên; trang nguồn ghi tác giả là “Own work”)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 655
+  },
+  {
+    "lessonId": "it-04",
+    "id": "it-04-image-11",
+    "src": "./assets/learning/it/image-11.webp",
+    "title": "Đường đi trong mạng",
+    "alt": "Sơ đồ máy tính và máy in kết nối router, modem và Internet",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Lần theo đường từ máy tính tới router và phần kết nối Internet.",
+      "Hình chỉ thể hiện kết nối thiết bị; giao thức IP, TCP và DNS không được vẽ riêng."
+    ],
+    "sourceTitle": "Home LAN local area network example diagram.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Home_LAN_local_area_network_example_diagram.png",
+    "author": "Sceeegt (người tải lên; trang nguồn ghi tác giả là “Own work”)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 655
+  },
+  {
+    "lessonId": "it-05",
+    "id": "it-05-image-11",
+    "src": "./assets/learning/it/image-11.webp",
+    "title": "Chia sẻ trong mạng cục bộ",
+    "alt": "Sơ đồ máy tính và máy in kết nối router, modem và Internet",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Tìm máy in và các thiết bị cùng kết nối tới router.",
+      "Muốn dùng chung máy in vẫn cần thiết lập chia sẻ và quyền truy cập phù hợp."
+    ],
+    "sourceTitle": "Home LAN local area network example diagram.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Home_LAN_local_area_network_example_diagram.png",
+    "author": "Sceeegt (người tải lên; trang nguồn ghi tác giả là “Own work”)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 655
+  },
+  {
+    "lessonId": "it-07",
+    "id": "it-07-image-01",
+    "src": "./assets/learning/it/image-01.webp",
+    "title": "Cây tài liệu HTML",
+    "alt": "Cây HTML với html, head, body, title và p",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Quan sát html là nút gốc, head và body là hai nhánh.",
+      "Trong ví dụ, title thuộc head và p thuộc body."
+    ],
+    "sourceTitle": "DOM tree.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DOM_tree.svg",
+    "author": "Lubaochuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 779,
+    "height": 800
+  },
+  {
+    "lessonId": "it-07",
+    "id": "it-07-image-10",
+    "src": "./assets/learning/it/image-10.webp",
+    "title": "Cấu tạo phần tử HTML",
+    "alt": "Sơ đồ thẻ mở, thuộc tính, nội dung và thẻ đóng của phần tử p",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Đọc thẻ mở, nội dung và thẻ đóng của phần tử p.",
+      "Trong thẻ mở, class là tên thuộc tính và foo là giá trị."
+    ],
+    "sourceTitle": "HTML element structure.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML_element_structure.svg",
+    "author": "Aapo Laitinen (bản gốc); Stannered (vẽ lại)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "width": 1000,
+    "height": 395
+  },
+  {
+    "lessonId": "it-08",
+    "id": "it-08-image-10",
+    "src": "./assets/learning/it/image-10.webp",
+    "title": "Đoạn văn HTML",
+    "alt": "Sơ đồ thẻ mở, thuộc tính, nội dung và thẻ đóng của phần tử p",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Tìm phần nội dung của phần tử p nằm giữa hai thẻ.",
+      "Thẻ p biểu thị đoạn văn; chữ và màu sắc trong hình chỉ giúp phân biệt các thành phần."
+    ],
+    "sourceTitle": "HTML element structure.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML_element_structure.svg",
+    "author": "Aapo Laitinen (bản gốc); Stannered (vẽ lại)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "width": 1000,
+    "height": 395
+  },
+  {
+    "lessonId": "it-09",
+    "id": "it-09-image-04",
+    "src": "./assets/learning/it/image-04.webp",
+    "title": "Ví dụ bảng HTML",
+    "alt": "Bảng HTML có ba cột màu và bốn hàng",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Đọc hàng tiêu đề Column A, B, C và các hàng dữ liệu bên dưới.",
+      "Bảng biểu thị quan hệ hàng và cột; hình chỉ cho thấy kết quả hiển thị, không cho thấy mã."
+    ],
+    "sourceTitle": "HTML5 table using some HTML elements not supported by MediaWiki.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML5_table_using_some_HTML_elements_not_supported_by_MediaWiki.png",
+    "author": "Timeshifter",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 461
+  },
+  {
+    "lessonId": "it-10",
+    "id": "it-10-image-10",
+    "src": "./assets/learning/it/image-10.webp",
+    "title": "Thẻ và thuộc tính",
+    "alt": "Sơ đồ thẻ mở, thuộc tính, nội dung và thẻ đóng của phần tử p",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Nhận biết tên thuộc tính và giá trị trong thẻ mở p.",
+      "Với liên kết, thay ví dụ này bằng thẻ a và dùng href để chỉ đích; hình không phải mã liên kết."
+    ],
+    "sourceTitle": "HTML element structure.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML_element_structure.svg",
+    "author": "Aapo Laitinen (bản gốc); Stannered (vẽ lại)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "width": 1000,
+    "height": 395
+  },
+  {
+    "lessonId": "it-11",
+    "id": "it-11-image-10",
+    "src": "./assets/learning/it/image-10.webp",
+    "title": "Đọc thuộc tính phần tử",
+    "alt": "Sơ đồ thẻ mở, thuộc tính, nội dung và thẻ đóng của phần tử p",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Tìm thuộc tính class và giá trị foo trong hình.",
+      "Với ảnh, src và alt cũng là thuộc tính nhưng img là phần tử rỗng; hình minh họa p, không phải img."
+    ],
+    "sourceTitle": "HTML element structure.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML_element_structure.svg",
+    "author": "Aapo Laitinen (bản gốc); Stannered (vẽ lại)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "width": 1000,
+    "height": 395
+  },
+  {
+    "lessonId": "it-12",
+    "id": "it-12-image-03",
+    "src": "./assets/learning/it/image-03.webp",
+    "title": "Các điều khiển biểu mẫu",
+    "alt": "Ví dụ biểu mẫu với ô nhập, nút chọn, hộp kiểm và vùng văn bản",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Quan sát ô nhập, nút chọn, hộp kiểm và vùng nhập nhiều dòng.",
+      "Hình là ví dụ giao diện; khi tạo form thực tế hãy gắn nhãn và tránh thu thông tin không cần thiết."
+    ],
+    "sourceTitle": "Form pic.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Form_pic.jpg",
+    "author": "Silversheep at English Wikibooks",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Form_pic.jpg",
+    "width": 275,
+    "height": 737
+  },
+  {
+    "lessonId": "it-13",
+    "id": "it-13-image-04",
+    "src": "./assets/learning/it/image-04.webp",
+    "title": "HTML và cách trình bày",
+    "alt": "Bảng HTML có ba cột màu và bốn hàng",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Nhận biết dữ liệu dạng bảng và các màu nền, màu chữ khác nhau.",
+      "Hình là kết quả hiển thị; không thể suy ra cách viết hay độ ưu tiên CSS chỉ từ hình."
+    ],
+    "sourceTitle": "HTML5 table using some HTML elements not supported by MediaWiki.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML5_table_using_some_HTML_elements_not_supported_by_MediaWiki.png",
+    "author": "Timeshifter",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 461
+  },
+  {
+    "lessonId": "it-14",
+    "id": "it-14-image-04",
+    "src": "./assets/learning/it/image-04.webp",
+    "title": "Quan sát chữ trong bảng",
+    "alt": "Bảng HTML có ba cột màu và bốn hàng",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "So sánh chữ đậm của hàng tiêu đề và chữ trong các ô dữ liệu.",
+      "Hình minh họa kết quả trình bày; cách khai báo font cụ thể không được hiển thị."
+    ],
+    "sourceTitle": "HTML5 table using some HTML elements not supported by MediaWiki.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML5_table_using_some_HTML_elements_not_supported_by_MediaWiki.png",
+    "author": "Timeshifter",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 461
+  },
+  {
+    "lessonId": "it-15",
+    "id": "it-15-image-04",
+    "src": "./assets/learning/it/image-04.webp",
+    "title": "Màu chữ và nền",
+    "alt": "Bảng HTML có ba cột màu và bốn hàng",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "So sánh chữ và nền ở từng hàng và cột.",
+      "Hãy xét độ tương phản thực tế và không dựa vào màu là dấu hiệu duy nhất."
+    ],
+    "sourceTitle": "HTML5 table using some HTML elements not supported by MediaWiki.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HTML5_table_using_some_HTML_elements_not_supported_by_MediaWiki.png",
+    "author": "Timeshifter",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 461
+  },
+  {
+    "lessonId": "it-16",
+    "id": "it-16-image-02",
+    "src": "./assets/learning/it/image-02.webp",
+    "title": "Các lớp của hộp CSS",
+    "alt": "Các lớp content, padding, border và margin của hộp CSS",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Đọc từ trong ra ngoài: content, padding, border, margin.",
+      "Width theo content-box không tính padding và border; theo border-box có tính chúng."
+    ],
+    "sourceTitle": "Box-model.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Box-model.svg",
+    "author": "Charles Calvert",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1000,
+    "height": 765
+  },
+  {
+    "lessonId": "it-18",
+    "id": "it-18-image-01",
+    "src": "./assets/learning/it/image-01.webp",
+    "title": "Phác thảo cấu trúc trang",
+    "alt": "Cây HTML với html, head, body, title và p",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Theo dõi quan hệ giữa html, head và body.",
+      "Trước khi định dạng, xây dựng cấu trúc và bổ sung nội dung thích hợp."
+    ],
+    "sourceTitle": "DOM tree.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DOM_tree.svg",
+    "author": "Lubaochuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 779,
+    "height": 800
+  },
+  {
+    "lessonId": "it-18",
+    "id": "it-18-image-03",
+    "src": "./assets/learning/it/image-03.webp",
+    "title": "Kiểm tra giao diện biểu mẫu",
+    "alt": "Ví dụ biểu mẫu với ô nhập, nút chọn, hộp kiểm và vùng văn bản",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Quan sát vị trí nhãn và các loại điều khiển.",
+      "Kiểm tra nhãn liên kết đúng và khả năng sử dụng trên màn hình hẹp."
+    ],
+    "sourceTitle": "Form pic.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Form_pic.jpg",
+    "author": "Silversheep at English Wikibooks",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Form_pic.jpg",
+    "width": 275,
+    "height": 737
+  },
+  {
+    "lessonId": "it-20",
+    "id": "it-20-image-11",
+    "src": "./assets/learning/it/image-11.webp",
+    "title": "Hệ thống mạng cần quản trị",
+    "alt": "Sơ đồ máy tính và máy in kết nối router, modem và Internet",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Tìm router, máy tính, máy in và đường kết nối Internet.",
+      "Người quản trị cần theo dõi kết nối và phân quyền; hình không thể hiện cấu hình thực tế."
+    ],
+    "sourceTitle": "Home LAN local area network example diagram.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Home_LAN_local_area_network_example_diagram.png",
+    "author": "Sceeegt (người tải lên; trang nguồn ghi tác giả là “Own work”)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 655
+  },
+  {
+    "lessonId": "it-22",
+    "id": "it-22-image-05",
+    "src": "./assets/learning/it/image-05.webp",
+    "title": "Switch thực tế",
+    "alt": "Hai switch mạng với nhiều dây cáp",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Nhận diện vỏ thiết bị, các cổng và cáp mạng.",
+      "Đếm cổng phù hợp nhu cầu và kiểm tra thông số thiết bị trước khi chọn."
+    ],
+    "sourceTitle": "Network switches.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Network_switches.jpg",
+    "author": "ShakataGaNai",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1000,
+    "height": 665
+  },
+  {
+    "lessonId": "it-23",
+    "id": "it-23-image-06",
+    "src": "./assets/learning/it/image-06.webp",
+    "title": "Cáp và đầu nối Ethernet",
+    "alt": "Đầu nối cáp Ethernet trong suốt cạnh thiết bị mạng",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Quan sát đầu nối trong suốt và cáp mạng bằng đồng.",
+      "Kiểu cáp, thiết bị và chuẩn ảnh hưởng tốc độ và khoảng cách truyền."
+    ],
+    "sourceTitle": "RJ45 Ethernet Cable.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RJ45_Ethernet_Cable.jpg",
+    "author": "Khairil Yusof from Malaysia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1000,
+    "height": 750
+  },
+  {
+    "lessonId": "it-24",
+    "id": "it-24-image-11",
+    "src": "./assets/learning/it/image-11.webp",
+    "title": "Phác thảo kết nối mạng",
+    "alt": "Sơ đồ máy tính và máy in kết nối router, modem và Internet",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Phân biệt thiết bị đầu cuối, router và kết nối tới nhà cung cấp.",
+      "Sơ đồ là ví dụ gia đình; mạng lớp học cần khảo sát số cổng, vùng phủ và địa chỉ riêng."
+    ],
+    "sourceTitle": "Home LAN local area network example diagram.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Home_LAN_local_area_network_example_diagram.png",
+    "author": "Sceeegt (người tải lên; trang nguồn ghi tác giả là “Own work”)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1000,
+    "height": 655
+  },
+  {
+    "lessonId": "it-25",
+    "id": "it-25-image-07",
+    "src": "./assets/learning/it/image-07.webp",
+    "title": "Quy trình học máy",
+    "alt": "Quy trình nhập, xử lí, trực quan, tạo mô hình và đánh giá",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Đọc theo mũi tên: nhập dữ liệu, xử lí, trực quan, tạo mô hình, đánh giá.",
+      "Đây là sơ đồ tổng quát: cần chia dữ liệu và giữ tập kiểm thử độc lập."
+    ],
+    "sourceTitle": "Machine learning workflow diagram.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machine_learning_workflow_diagram.png",
+    "author": "Brylie Christopher Oxley",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 603,
+    "height": 373
+  },
+  {
+    "lessonId": "it-25",
+    "id": "it-25-image-08",
+    "src": "./assets/learning/it/image-08.webp",
+    "title": "Ma trận nhầm lẫn",
+    "alt": "Bốn ma trận thể hiện accuracy, precision, recall và specificity",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Hàng biểu thị thực tế, cột biểu thị dự đoán; xác định TP, FP, FN và TN.",
+      "So sánh accuracy, precision và recall theo bài toán; hình dùng các nhãn tiếng Anh."
+    ],
+    "sourceTitle": "Confusion Matrix Metrics.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confusion_Matrix_Metrics.png",
+    "author": "Hssiqueira",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 481,
+    "height": 483
+  },
+  {
+    "lessonId": "it-26",
+    "id": "it-26-image-12",
+    "src": "./assets/learning/it/image-12.webp",
+    "title": "Khám phá quan hệ dữ liệu",
+    "alt": "Biểu đồ phân tán về hai đại lượng lương với năm điểm",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Mỗi chấm biểu diễn một cặp giá trị trên hai trục.",
+      "Quan sát xu hướng và điểm khác biệt; tương quan không tự chứng minh nhân quả."
+    ],
+    "sourceTitle": "Scatter plot showing positive correlation with outliers.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scatter_plot_showing_positive_correlation_with_outliers.jpg",
+    "author": "Monika Wahi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 481,
+    "height": 289
+  },
+  {
+    "lessonId": "it-27",
+    "id": "it-27-image-12",
+    "src": "./assets/learning/it/image-12.webp",
+    "title": "Trực quan hóa dữ liệu",
+    "alt": "Biểu đồ phân tán về hai đại lượng lương với năm điểm",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Đọc đơn vị và tên hai trục trước khi so sánh các điểm.",
+      "Máy tính tạo biểu đồ từ dữ liệu nhưng người phân tích vẫn phải kiểm tra nguồn và chất lượng."
+    ],
+    "sourceTitle": "Scatter plot showing positive correlation with outliers.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scatter_plot_showing_positive_correlation_with_outliers.jpg",
+    "author": "Monika Wahi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 481,
+    "height": 289
+  },
+  {
+    "lessonId": "it-28",
+    "id": "it-28-image-12",
+    "src": "./assets/learning/it/image-12.webp",
+    "title": "Đọc biểu đồ phân tán",
+    "alt": "Biểu đồ phân tán về hai đại lượng lương với năm điểm",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Chọn hai điểm và so sánh vị trí theo cả hai trục.",
+      "Kiểm tra điểm có vẻ lệch bằng dữ liệu gốc trước khi quyết định xử lí."
+    ],
+    "sourceTitle": "Scatter plot showing positive correlation with outliers.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scatter_plot_showing_positive_correlation_with_outliers.jpg",
+    "author": "Monika Wahi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 481,
+    "height": 289
+  },
+  {
+    "lessonId": "it-29",
+    "id": "it-29-image-09",
+    "src": "./assets/learning/it/image-09.webp",
+    "title": "Mô hình và thực nghiệm",
+    "alt": "Sơ đồ hệ thực, mô hình, thực nghiệm, mô phỏng và so sánh",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Theo nhánh mô hình, chạy mô phỏng và quan sát kết quả.",
+      "So sánh kết quả mô phỏng với thực nghiệm để xem cần điều chỉnh mô hình không."
+    ],
+    "sourceTitle": "Molecular simulation process.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Molecular_simulation_process.svg",
+    "author": "Danski14",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 977,
+    "height": 800
+  },
+  {
+    "lessonId": "it-30",
+    "id": "it-30-image-09",
+    "src": "./assets/learning/it/image-09.webp",
+    "title": "Học qua mô phỏng",
+    "alt": "Sơ đồ hệ thực, mô hình, thực nghiệm, mô phỏng và so sánh",
+    "caption": "Bản thu nhỏ, chuyển sang WebP từ hình gốc trên Wikimedia Commons.",
+    "explanation": [
+      "Đặt câu hỏi về hệ thực, xây dựng mô hình và thử thay đầu vào.",
+      "Đối chiếu kết quả và nêu giả định, vì mô hình chỉ phản ánh một phần thực tế."
+    ],
+    "sourceTitle": "Molecular simulation process.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Molecular_simulation_process.svg",
+    "author": "Danski14",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 977,
+    "height": 800
+  }
+]
