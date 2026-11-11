@@ -1,0 +1,13 @@
+.writing-dialog{width:min(800px,calc(100% - 32px));max-width:none;max-height:calc(100dvh - 32px);background:var(--paper);color:inherit;overflow:auto}
+.writing-dialog .dialog-head{position:sticky;top:0;z-index:1;background:var(--paper);gap:12px}
+.writing-dialog .dialog-head h2{font-size:19px}
+.writing-dialog [data-writing-status]{color:var(--muted);font-size:12px}
+.writing-body{display:grid;gap:18px}
+.writing-body .field{margin:0;gap:7px}
+.writing-body textarea{width:100%;min-width:0}
+.writing-body [data-writing-count]{font-size:12px;font-weight:500;color:var(--muted)}
+.writing-hint{margin:0;padding:12px 14px;border-radius:10px;background:var(--soft);font-weight:700;font-size:14px}
+.writing-prompt{background:var(--paper)}
+.writing-prompt p{margin:10px 0;font-size:13px}
+.writing-prompt textarea{margin-bottom:10px}
+@media(max-width:639px){.writing-dialog{width:calc(100% - 16px);max-height:calc(100dvh - 16px)}.writing-dialog .dialog-head,.writing-dialog .dialog-body,.writing-dialog .dialog-actions{padding:14px 16px}.writing-dialog .dialog-head h2{font-size:16px}.writing-body{gap:15px}.writing-dialog .dialog-actions .btn{flex:1}}
