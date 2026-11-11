@@ -169,7 +169,7 @@ export function createCloudSyncUI({getState,setState,notify,legacyKey='b1-moi-ng
   window.addEventListener('online',()=>void syncNow());
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)void syncNow();});
   return {
-    renderBar,mount,storageKey,
+    renderBar,mount,storageKey,hasAccount:()=>Boolean(user),isConfigured:()=>client.configured,
     localChanged(state){if(!engine||!ready||applying||phase.phase==='empty'||phase.phase==='loading')return;void engine.localChanged(copy(state));clearTimeout(saveTimer);saveTimer=setTimeout(()=>void syncNow(),800);},
     async beforeImport(){preserveDevice('before-file-import');if(user)await cloudBackup();},
     async start(){
